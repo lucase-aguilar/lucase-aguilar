@@ -1,4 +1,4 @@
-- 👋 Hi! My name is Lucas and I'm a self-taught web developer from Buenos Aires, Argentina.
+- 👋 Hi! My name is Lucas, I'm 26 yrs old and I'm a self-taught web developer from Buenos Aires, Argentina.
 - 
 - 🌱 I’m currently learning React.
 
