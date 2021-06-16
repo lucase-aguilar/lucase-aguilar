@@ -4,6 +4,7 @@
 
 
 - 📫 How to reach me: lucasaguilar5@gmail.com
+- https://www.linkedin.com/in/aguilar-lucas/
 
 <!---
 lucase-aguilar/lucase-aguilar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
